@@ -1,3 +1,8 @@
-# CourseProject
+# Iterative Topic Modeling with Time Series Feedback
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+## Team Starks
+
+Saad Rasheed - srashee2 
+Javier Huamani - huamani2
+Sai Allu - allu2
+
