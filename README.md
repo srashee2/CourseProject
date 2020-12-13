@@ -1,9 +1,9 @@
 # CS410 Final Project: Iterative Topic Modeling with Time Series Feedback
 
-## Team Starks
-Saad Rasheed - srashee2
-Javier Huamani - huamani2 
-Sai Allu - allu2
+## Team Starks<br>
+Saad Rasheed - srashee2<br>
+Javier Huamani - huamani2 <br>
+Sai Allu - allu2<br>
 
 ## Demonstration
 (Put Video Link here)
@@ -11,13 +11,13 @@ Sai Allu - allu2
 ## Purpose
 Team starks set out to recreate **Mining Causal Topics in Text Data**
 
-**Title**
+**Title**<br>
 Mining Causal Topics in Text Data: Iterative Topic Modeling with Time Series Feedback"
 
-**Authors**
+**Authors**<br>
 Hyun Duk Kim, Malu Castellanos, Meichun Hsu, ChengXiang Zhai, Thomas Rietz, and Daniel Diermeier. 2013. 
 
-**Citation**
+**Citation**<br>
 Mining causal topics in text data: Iterative topic modeling with time series feedback. In Proceedings of the 22nd ACM international conference on information & knowledge management (CIKM 2013). ACM, New York, NY, USA, 885-890. DOI=10.1145/2505515.2505612
 
 ## Introduction 
@@ -61,9 +61,9 @@ In our final project we create a text mining application to find causal topics f
 ## How to run
 The easiest way to run our code is to download [Anaconda](https://www.anaconda.com/products/individual) and run it through jupyter notebook
 
-clone this repository
-```$ git clone https://github.com/srashee2/CourseProject.git```
-```$ cd CourseProject```
-```$ jupyter notebook```
+
+```$ git clone https://github.com/srashee2/CourseProject.git```<br>
+```$ cd CourseProject```<br>
+```$ jupyter notebook```<br>
 
 You can now click on LDA.ipynb and click run all cells. It will take some time to run through the code, approximately 1 hour.
