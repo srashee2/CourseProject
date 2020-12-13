@@ -12,10 +12,10 @@ Sai Allu - allu2<br>
 Team starks set out to recreate **Mining Causal Topics in Text Data**
 
 **Title**<br>
-Mining Causal Topics in Text Data: Iterative Topic Modeling with Time Series Feedback"
+Mining Causal Topics in Text Data: Iterative Topic Modeling with Time Series Feedback
 
 **Authors**<br>
-Hyun Duk Kim, Malu Castellanos, Meichun Hsu, ChengXiang Zhai, Thomas Rietz, and Daniel Diermeier. 2013. 
+Hyun Duk Kim, Malu Castellanos, Meichun Hsu, ChengXiang Zhai, Thomas Rietz, and Daniel Diermeier
 
 **Citation**<br>
 Mining causal topics in text data: Iterative topic modeling with time series feedback. In Proceedings of the 22nd ACM international conference on information & knowledge management (CIKM 2013). ACM, New York, NY, USA, 885-890. DOI=10.1145/2505515.2505612
@@ -67,3 +67,12 @@ The easiest way to run our code is to download [Anaconda](https://www.anaconda.c
 ```$ jupyter notebook```<br>
 
 You can now click on LDA.ipynb and click run all cells. It will take some time to run through the code, approximately 1 hour.
+
+## Contributions
+Team Starks came together over the course of a few months with weekly meetings to understand, learn and recreate Iterative Topic Modeling with Time Series Feedback. More specific contributions for the team members can be found below.<br>
+
+All team members did the following: library research, paper breakdown and documentation. <br>
+<br>
+>Saad Rasheed - Logistical work, Corpus Text Extraction, Presentation, and LDA modeling iteration<br>
+>Javier Huamani - Text Filtering and Manipulation, LDA Modeling, Granger Causality, and Pearson Coefficient Tests <br>
+>Sai Allu - Text Filtering and Manipulation, LDA Modeling, Granger Causality, and Presentation <br>
